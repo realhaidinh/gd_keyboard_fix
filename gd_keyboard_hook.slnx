@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="gd_keyboard_hook.vcxproj" Id="f9f67948-2f3d-44b2-9ca4-34a733957052" />
+</Solution>
